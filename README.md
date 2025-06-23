@@ -26,4 +26,4 @@ A secure and user-friendly web-based voting platform designed for student counci
 
 ## 📩 Contact
 Created by Ritika Lamba  
-[ritika.email@example.com](mailto:ritika.email@example.com)
+[lambaritu67@gmail.com](mailto:lambaritu67@gmail.com)

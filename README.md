@@ -15,7 +15,7 @@ A secure and user-friendly web-based voting platform designed for student counci
 - Session-based login and state tracking
 
 ## 📸 Screenshots
-> *(Add screenshots in the `/screenshots` folder and link them here)*
+> *(Make sure the following files exist in the `/screenshots` folder)*
 
 ![Homepage](screenshots/homepage.png)
 ![OTP Verification](screenshots/otp.png)
@@ -25,7 +25,7 @@ A secure and user-friendly web-based voting platform designed for student counci
 
 ## 🧪 How to Run Locally
 
-1. Install [MAMP](https://www.mamp.info) or XAMPP
-2. Clone this repository into the web root:
+1. Install [MAMP](https://www.mamp.info) or [XAMPP](https://www.apachefriends.org/index.html)
+2. Clone this repository into your server root directory:
    ```bash
    git clone https://github.com/rxl895/online-voting-system.git
